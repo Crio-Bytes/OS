@@ -44,11 +44,15 @@ For proposing a PR with updates to an existing MicroByte, utilise PR template `u
 ```bash
 ## It all starts with forking the repository
 
-## Cloning and set up
-# Clone the repo
+## Clone the repo
 $ git clone https://github.com/<User-Name>/<Repo-Name>.git
-# Add upstream remote
+# - OR -
+$ git clone git@github.com:<User-Name>/<Repo-Name>.git
+
+## Add upstream remote
 $ git remote add upstream https://github.com/Crio-Bytes/OS
+# - OR -
+$ git remote add upstream git@github.com:Crio-Bytes/OS.git
 
 ## Syncing with upstream/main branch
 $ git fetch upstream
