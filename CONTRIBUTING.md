@@ -50,7 +50,7 @@ $ git clone https://github.com/<User-Name>/<Repo-Name>.git
 $ git clone git@github.com:<User-Name>/<Repo-Name>.git
 
 ## Add upstream remote
-$ git remote add upstream https://github.com/Crio-Bytes/OS
+$ git remote add upstream https://github.com/Crio-Bytes/OS.git
 # - OR -
 $ git remote add upstream git@github.com:Crio-Bytes/OS.git
 
