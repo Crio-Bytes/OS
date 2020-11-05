@@ -13,6 +13,32 @@ An operating system, or "OS," is [software](https://techterms.com/definition/sof
 Understand the concepts behind the working principles of any operating system, such as concurrency, threads vs processes, virtual memory, memory leak, etc.
 
 
+<!-- MicroByte Showcase section starts -->
+
+<div align = "center">
+    <img src = "https://raw.githubusercontent.com/Crio-Bytes/Demo-Repo/master/Maintainer%20Resources/img/micro-bytes-header.png">
+</div>
+
+<hr />
+
+<!-- MicroByte Showcase sub-section starts -->
+
+<details>
+  <summary><b>Virtual memory (Memory leak)</b></summary>
+
+
+  ```
+  Memory leaks are the dakoits of Memory. Memory leaks are bad because your program claims resources and keeps them occupied for its entire lifecycle, even though it does not need them anymore. If you have a static leak the size of X when the program starts and it does not grow over time it's unfortunate, but probably not the end of the world. Tune in to know more. 😉
+  ```
+
+</details>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Sudipto Ghosh ([**@sudiptog81**](https://github.com/sudiptog81))
+
+<!-- MicroByte Showcase sub-section ends -->
+
+<!-- MicroByte Showcase section ends -->
+
 
 
 ## Contributors ✨
