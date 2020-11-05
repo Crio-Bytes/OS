@@ -28,7 +28,11 @@ Understand the concepts behind the working principles of any operating system, s
 
 
   ```
-  Memory leaks are the dakoits of Memory. Memory leaks are bad because your program claims resources and keeps them occupied for its entire lifecycle, even though it does not need them anymore. If you have a static leak the size of X when the program starts and it does not grow over time it's unfortunate, but probably not the end of the world. Tune in to know more. 😉
+  Memory leaks are the dakoits of Memory. Memory leaks are bad because your program 
+  claims resources and keeps them occupied for its entire lifecycle, even though it 
+  does not need them anymore. If you have a static leak the size of X when the program 
+  starts and it does not grow over time it's unfortunate, but probably not the end of 
+  the world. Tune in to know more. 😉
   ```
 
 </details>
