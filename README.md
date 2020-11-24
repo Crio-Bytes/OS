@@ -2,6 +2,8 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+<a href="LICENSE"><img alt="GitHub License MIT" src="https://img.shields.io/github/license/Crio-Bytes/Demo-Repo?style=for-the-badge&labelColor=black&logo=github"></a>
+
 # Introduction
 
 An operating system, or "OS," is [software](https://techterms.com/definition/software) that communicates with the [hardware](https://techterms.com/definition/hardware) and allows other [programs](https://techterms.com/definition/program) to run.  It is comprised of [system software](https://techterms.com/definition/systemsoftware), or the fundamental files your computer needs to [boot up](https://techterms.com/definition/boot) and function.  Every desktop computer, tablet, and smartphone includes  an operating system that provides basic functionality for the device.
