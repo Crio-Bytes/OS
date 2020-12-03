@@ -2,7 +2,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-<a href="LICENSE"><img alt="GitHub License MIT" src="https://img.shields.io/github/license/Crio-Bytes/Demo-Repo?style=for-the-badge&labelColor=black&logo=github"></a>
+<a href="LICENSE"><img alt="GitHub License MIT" src="https://img.shields.io/github/license/Crio-Bytes/OS?style=for-the-badge&labelColor=black&logo=github"></a>
 
 # Introduction
 
