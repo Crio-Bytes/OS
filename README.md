@@ -16,7 +16,7 @@ An operating system, or "OS," is [software](https://techterms.com/definition/sof
 
 ### Background
 
-Understand the concepts behind the working principles of any operating system, such as concurrency, threads vs processes, virtual memory, memory leak, etc.
+Understand the concepts behind the working principles of any operating system, such as concurrency, threads vs processes, virtual memory, memory leak,CPU scheduling etc.
 
 
 <!-- MicroByte Showcase section starts -->
